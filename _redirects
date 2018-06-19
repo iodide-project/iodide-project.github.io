@@ -1,0 +1,4 @@
+/iodide-examples/* https://iodide-examples.netlify.com/:splat 200
+/master/* https://iodide-master.netlify.com/:splat 200
+/dist/* https://iodide-dist.netlify.com/:splat 200
+/pyodide-demo/* https://pyodide.netlify.com/:splat 200
